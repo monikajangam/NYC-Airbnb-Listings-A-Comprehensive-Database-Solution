@@ -1,5 +1,3 @@
-# NYC-Airbnb-Listings-A-Comprehensive-Database-Solution
-
 This project centers on a comprehensive database solution leveraging a dataset of New York City Airbnb listings updated as of January 5, 2024. Aimed at financial analysts and company managers, the dataset encompasses over 20 parameters critical for in-depth financial studies and market assessments of short- and long-term rental trends in NYC. Key insights include pricing patterns, popular room types, and regional concentrations, enabling informed decision-making.
 
 The project imports the dataset from Kaggle using CSV files and organizes it into a structured database schema. It addresses the need for efficient inventory management by optimizing data storage, organization, and retrieval. The database schema includes tables for listings, hosts, availability, neighborhoods, ratings, reviews, locations, prices, and rooms, facilitating detailed analysis of geographical distribution, pricing trends, room type popularity, and neighborhood preferences.
